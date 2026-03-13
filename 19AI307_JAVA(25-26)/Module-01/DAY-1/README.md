@@ -32,8 +32,8 @@ To write a Java program that gets the user's name as input (String) and prints a
 ## PROGRAM:
 ```txt
 Program to implement variables and Operators using Java
-Developed by: Akash B
-RegisterNumber:  212222040004
+Developed by: V Anisha
+RegisterNumber:  212224040023
 ```
 
 ## SOURCE CODE
