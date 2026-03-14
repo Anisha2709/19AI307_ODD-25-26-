@@ -12,7 +12,7 @@ To write a Java program to create a class called Employee with private instance 
 
 
 ## ALGORITHM :
-1. tart the program and define an Employee class with private variables employee_id, employee_name, and employee_salary.
+1. Start the program and define an Employee class with private variables employee_id, employee_name, and employee_salary.
 
 2. Create getter and setter methods to access and modify the employee details.
 
